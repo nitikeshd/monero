@@ -1,15 +1,15 @@
-# Monero
+# Predebug
 
-Copyright (c) 2014-2017 The Monero Project.   
-Portions Copyright (c) 2012-2013 The Cryptonote developers.
+Copyright (c) 2017-2018 The Predebug Project.   
+Portions Copyright (c) 2017-2018 The Predebug developers.
 
 ## Development resources
 
-- Web: [getmonero.org](https://getmonero.org)
-- Forum: [forum.getmonero.org](https://forum.getmonero.org)
-- Mail: [dev@getmonero.org](mailto:dev@getmonero.org)
-- GitHub: [https://github.com/monero-project/monero](https://github.com/monero-project/monero)
-- IRC: [#monero-dev on Freenode](http://webchat.freenode.net/?randomnick=1&channels=%23monero-dev&prompt=1&uio=d4)
+- Web: [predebug.com](https://predebug.org)
+- Forum: [forum.predebug.com](https://forum.predebug.com)
+- Mail: [dev@predebug.com](mailto:dev@predebug.com)
+- GitHub: [https://github.com/nitikeshd/predebug](https://github.com/nitikeshd/predebug)
+
 
 ## Vulnerability response
 
